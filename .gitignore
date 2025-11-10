@@ -1,3 +1,11 @@
+*.png
+*.jpg
+*LICENSE.txt
+*assets/
+*images/
+*index-demo.html
+*.rproj
+
 # History files
 .Rhistory
 .Rapp.history
