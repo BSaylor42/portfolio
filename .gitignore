@@ -5,6 +5,7 @@
 *images/
 *index-demo.html
 *.rproj
+*.txt
 
 # History files
 .Rhistory
