@@ -2,7 +2,6 @@
 *.jpg
 *LICENSE.txt
 *assets/
-*images/
 *index-demo.html
 *.rproj
 *.txt
